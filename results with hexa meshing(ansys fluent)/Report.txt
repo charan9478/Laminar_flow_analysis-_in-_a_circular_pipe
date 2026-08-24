@@ -1,0 +1,67 @@
+ANSYS Report
+
+ANSYS Logo: ansys-part-of-synopsys-238x80.jpg
+
+Date:  2026/08/23 18:33:43
+
+______________________________________________________________________
+
+Contents
+1. File Report
+    Table 1  File Information for FFF
+2. Mesh Report
+    Table 2  Mesh Information for FFF
+3. Physics Report
+    Table 3  Domain Physics for FFF
+    Table 4  Boundary Physics for FFF
+4. User Data
+    Chart 1
+    Chart 2
+______________________________________________________________________
+
+1. File Report
+
+Table 1.  File Information for FFF
+Case	FFF
+File Path	C:\Users\pchar\lflow_files\dp0\FFF\Fluent\FFF.1-4-01200.dat.h5
+File Date	16 August 2026
+File Time	04:30:32 PM
+File Type	CFF
+File Version	--
+
+
+2. Mesh Report
+
+Table 2.  Mesh Information for FFF
+Domain	Nodes	Elements
+solid	14336	11475
+
+
+3. Physics Report
+
+Table 3.  Domain Physics for FFF
+Domain - solid	
+Type	FLUID
+Location	solid
+
+
+Table 4.  Boundary Physics for FFF
+Domain	Boundaries	
+solid	Boundary - inlet	
+	Type	VELOCITY-INLET
+	Location	inlet
+	Boundary - outlet	
+	Type	PRESSURE-OUTLET
+	Location	outlet
+	Boundary - wall	
+	Type	WALL
+	Location	wall
+
+
+4. User Data
+
+Chart 1 - Report/Chart001.png
+
+Chart 2 - Report/Chart002.png
+
+
